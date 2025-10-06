@@ -33,7 +33,7 @@
 ## 🛠️ Tech Stack  
 
 **Languages:** C, C++, Python, MATLAB, Verilog HDL, Sql
-**Tools:** Simulink, STM32CubeIDE, KiCad, Altium, LtSpice, Proteus, Tina TI, Vidado, Awr Design Studio, Cst Design Suite, PostgreSql
+**Tools:** Simulink, STM32CubeIDE, KiCad, Altium, LtSpice, Proteus, Tina TI, Vidado, Awr Design Studio, Cst Design Suite
 
 ---
 

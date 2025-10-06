@@ -39,7 +39,7 @@
 
 📫 **Reach Me:**  
 📧 [paksoy.alptekin@gmail.com](mailto:paksoy.alptekin@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/alptekinpaksoy)  
+🔗 [LinkedIn](www.linkedin.com/in/alptekin-paksoy)  
 🌐 [GitHub](https://github.com/AlptekinPaksoy)  
 
 ---
